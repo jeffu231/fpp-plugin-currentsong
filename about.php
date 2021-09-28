@@ -8,8 +8,8 @@
 		<br />
         Jeff Uchitjil<br />
 		<br />
-        <a href='https://github.com/FalconChristmas/fpp-plugin-Template'>Git Repository</a><br>
-        <a href='https://github.com/FalconChristmas/fpp-plugin-Template/issues'>Bug Reporter</a><br>
+        <a href='https://github.com/jeffu231/fpp-plugin-currentsong'>Git Repository</a><br>
+        <a href='https://github.com/jeffu231/fpp-plugin-currentsong/issues'>Bug Reporter</a><br>
 		<br />
       </div>
     </div>

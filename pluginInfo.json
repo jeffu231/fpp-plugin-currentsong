@@ -3,9 +3,9 @@
 	"name": "Current Song Plugin for FPP Plugin developers",
 	"author": "Jeff Uchitjil",
 	"description": "This plugin is designed to send the current song info to a web service.",
-	"homeURL": "https://github.com/FalconChristmas/fpp-plugin-Template",
-	"srcURL": "https://github.com/FalconChristmas/fpp-plugin-Template.git",
-	"bugURL": "https://github.com/FalconChristmas/fpp-plugin-Template/issues",
+	"homeURL": "https://github.com/jeffu231/fpp-plugin-currentsong",
+	"srcURL": "https://github.com/jeffu231/fpp-plugin-currentsong.git",
+	"bugURL": "https://github.com/jeffu231/fpp-plugin-currentsong/issues",
 	"allowUpdates": 1,
 	"versions": [
 		{
