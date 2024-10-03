@@ -78,7 +78,7 @@ case $operation in
 			echo >> ${DEBUG_LOG}
 		fi
 
-                curl -H "Accept: application/json" -H "Content-Type: application/json" -X POST -d "$DATA" "apoc.home.kb9kld.org/OutsideDataUpdater/api/song/Update"
+                curl -H "Accept: application/json" -H "Content-Type: application/json" -X POST -d "$DATA" "dozer.home.kb9kld.org/OutsideDataUpdater/api/song/Update"
                 ;;
 	*)
 		die "You must specify a callback type!"
